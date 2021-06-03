@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short and easie method with the Deists; or, those who deny the essence of God wherein, the truth of the Christian religion is demonstrated, by such rules as stand upon the conviction of the outward senses, and which are incompatible with the fabulous histories of the heathen deities, the delusions of Mahomet, or any other imposture whatsoever. Licensed according to order. In a letter to a friend.</title>
+            <author>Leslie, Charles, 1650-1722.</author>
+         </titleStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03988</idno><idno type="EEBO-CITATION">52612194</idno>
+  <idno type="VID">179495</idno>
+  <idno type="EEBO-PROQUEST">2240890309</idno>
+  
+            <idno type="STC">Wing L1153</idno>
+            <idno type="STC">ESTC R179459</idno>
+            <idno type="OCLC">52612194</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B03988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179495)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2790:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short and easie method with the Deists; or, those who deny the essence of God wherein, the truth of the Christian religion is demonstrated, by such rules as stand upon the conviction of the outward senses, and which are incompatible with the fabulous histories of the heathen deities, the delusions of Mahomet, or any other imposture whatsoever. Licensed according to order. In a letter to a friend.</title>
+                  <author>Leslie, Charles, 1650-1722.</author>
+               </titleStmt>
+               <extent>[4], 5-32 p.   </extent>
+               <publicationStmt>
+                  <publisher>by John Reid, and to be sold at his printing-house in Bells Wynd,</publisher>
+                  <pubPlace>London printed ;</pubPlace>
+                  <pubPlace>and Edinburgh reprinted :</pubPlace>
+                  <date>Anno Dom: M. DC. XCVIII [i.e. 1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author attribution from other editions.</note>
+                  <note>Dated at end: July 17th. 1697.</note>
+                  <note>Imperfect: tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Deism --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179495:1"/>
+            <pb facs="tcp:179495:1"/>
+            <p>A SHORT and EASIE METHOD With the DEISTS; OR, Those who deny the ESSENCE of GOD: WHEREIN, The TRUTH of the CHRISTIAN RE<g ref="char:EOLhyphen"/>LIGION is Demonstrated, by such <hi>Rules</hi> as stand upon the Conviction of our <hi>Outward Senses,</hi> and which are in<g ref="char:EOLhyphen"/>compatible with the <hi>Fabulous Histories</hi> of the <hi>Heathen Deities,</hi> the Delusions of <hi>Mahomet,</hi> or any other <hi>Imposture</hi> whatsoever.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>In a Letter to a FRIEND.</hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed, and <hi>Edinburgh</hi> Reprinted by <hi>John Reid,</hi> and to be sold at his Printing-House in <hi>Bells Wynd, Anno Dom:</hi> M.DC.XCVIII.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:179495:2"/>
+            <pb facs="tcp:179495:2"/>
+            <head>The CONTENTS.</head>
+            <list>
+               <item>THE Pretence of the <hi>Deists</hi> against all <hi>Revela<g ref="char:EOLhyphen"/>tion,</hi> with the short Method propos'd to prove the Truth of the <hi>Christian Religion. page 5</hi>
+               </item>
+               <item>
+                  <hi>II.</hi> That the whole of this Cause does depend upon the Truth of the <hi>Matters of Fact</hi> said to be done by <hi>Moses</hi> and <hi>Christ. p. 8</hi>
+                  <list>
+                     <item>
+                        <hi>1.</hi> The Method taken to prove them. <hi>p. 8</hi>
+                     </item>
+                     <item>
+                        <hi>2.</hi> Four Rulet whereby to ascertain the Truth of any <hi>Matter of Fact. p. 9</hi>
+                     </item>
+                     <item>
+                        <hi>3.</hi> The two first Rules make it impossible to im<g ref="char:EOLhyphen"/>pose the Cheat at the time when the <hi>Mat<g ref="char:EOLhyphen"/>ter of Fact</hi> is said to be done. <hi>p. 9.</hi>
+                     </item>
+                     <item>
+                        <hi>4.</hi> The two last Rules secure equallie against the Invention of it afterwards. <hi>p. 10</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>III.</hi> That these Marks or Rules do all meet in the <hi>Mat<g ref="char:EOLhyphen"/>ters of Fact</hi> of <hi>Moses</hi> &amp; <hi>Christ,</hi> but not in those of <hi>Mahomet,</hi> or the <hi>Heathen Deities. p. 11</hi>
+                  <list>
+                     <item>As to <hi>1. Moses. ibid.</hi>
+                     </item>
+                     <item>As to <hi>2. Christ. p. 13</hi>
+                     </item>
+                     <item>As to <hi>3. Mahomet</hi> &amp; the <hi>Heathen Deities. p. 14</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>IV</hi> The Deists are challeng'd to shew any Fable that has all the four Rules or Marks before menti<g ref="char:EOLhyphen"/>oned. <hi>p. 16</hi>
+               </item>
+               <item>
+                  <hi>V.</hi> Many things true, which have all these Marks, which shews the greater certainty of that which has them. <hi>p. 17</hi>
+               </item>
+               <item>
+                  <hi>VI.</hi> Especiallie where the importance of such things is great. <hi>ibid.</hi>
+               </item>
+               <item>
+                  <hi>VII.</hi> Other <hi>Topicks,</hi> whence to prove the <hi>Christian Religion,</hi> from the Truth of the <hi>Apostles</hi> &amp;c <hi>p. 18</hi>
+               </item>
+               <pb facs="tcp:179495:3"/>
+               <item>
+                  <hi>VIII.</hi> The <hi>Attestation</hi> of <hi>Adversaries p 21</hi>
+               </item>
+               <item>
+                  <hi>IX.</hi> These fullly convinceing to all reasonable Men. <hi>ibid.</hi>
+               </item>
+               <item>
+                  <hi>X.</hi> This present <hi>Topick</hi> concludes upon the Convicti<g ref="char:EOLhyphen"/>on of our <hi>Outward Senses. p. 22</hi>
+               </item>
+               <item>
+                  <hi>XI.</hi> None of the <hi>Popish Legends,</hi> or other <hi>Forgeries,</hi> can shew the four <hi>Marks</hi> before mentioned, <hi>ibid.</hi>
+               </item>
+               <item>XII.
+<list>
+                     <item>
+                        <hi>1.</hi> If <hi>Reveal'd Religion</hi> be <hi>Priest-craft,</hi> it makes the <hi>Priests</hi> the wisest of <hi>Mankind. p. 23</hi>
+                     </item>
+                     <item>
+                        <hi>2.</hi> More mighty than all the infernal Powers. <hi>p. 24</hi>
+                     </item>
+                     <item>
+                        <hi>3</hi> To do more than ever GOD has done. <hi>p. 25</hi>
+                     </item>
+                     <item>
+                        <hi>4 Transubstantion</hi> touch'd upon this point. <hi>ibid.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>XIII. The <hi>Deists</hi> who laugh at <hi>miracles,</hi> run upon the greatest of all. <hi>p. 26</hi>
+               </item>
+               <item>XIV. A fair Tryal (upon the <hi>Deists</hi> principles) whereby to judge whether they or the <hi>Priests</hi> (whom they so much vilifie) have most sense or policy. <hi>ibid.</hi>
+               </item>
+               <item>XV. False Religion, the <hi>Imitation</hi> and <hi>Corrupti<g ref="char:EOLhyphen"/>on</hi> of the <hi>True. p. 27</hi>
+               </item>
+               <item>XVI. The Deists confession and contradiction in their Notions of <hi>Natural Religion,</hi> and recurring to the <hi>Common Reason</hi> of <hi>Mankind. ibid.</hi>
+               </item>
+               <item>XVII. <hi>Religion</hi> not the invention of <hi>Priests, Priests</hi> the great Guard of <hi>Religion. ibid.</hi>
+               </item>
+               <item>XVIII. Therefore the <hi>Priests</hi> most struck at by the <hi>Devil</hi> and his Agents. <hi>p. 20</hi>
+               </item>
+               <item>XIX. The <hi>Quakers</hi> and other <hi>Dissenters</hi> join herein with the <hi>Deists. ibid.</hi>
+               </item>
+               <item>XX. Advice to the <hi>Deists. p. 31</hi>
+               </item>
+            </list>
+            <p>Such minute Contents to so short an Essay, may seem disproportinable and needless: But it was done for ease to the memorie of some, for whom it was more particularly design'd: And can poejudice none, who need not such Helps.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="5" facs="tcp:179495:3"/>
+            <head>A <hi>Short and easie Method</hi> WITH THE DEISTS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN Answer to yours, of the Third In<g ref="char:EOLhyphen"/>stant, I much condole with you your Unhappy Circumstances of being placed amongst such Company, where, as you say, you continually hear the Sacred <hi>Scriptures,</hi> and the Histories therein contain'd, particularly of <hi>Moses</hi> and of <hi>Christ,</hi> and all <hi>Reveal'd</hi> Religion turn'd into Ridicule, by men who set up for <hi>Sense</hi> and <hi>Reason.</hi> And they say, That there is no greater Ground to be<g ref="char:EOLhyphen"/>lieve in <hi>Christ,</hi> than in <hi>Mahomet:</hi> That all these Pretences to <hi>Revelation</hi> are <hi>Cheats,</hi> and ever had been among <hi>Pagans, Jews, Mahume<g ref="char:EOLhyphen"/>tans,</hi> and <hi>Christians:</hi> They are all alike
+<pb n="6" facs="tcp:179495:4"/> Impositions of cunning and designing men, upon the Credulity, at first, of simple and unthinking people, till, their numbers en<g ref="char:EOLhyphen"/>creasing, their delusions grew popular, come, at last to be established by Laws, and then the force of Education and Custom gives a Byass to the Judgement of After Ages, till such deceits come really to be believ'd, being receiv'd up on Trust from the Ages foregoing, without examining into the Original and Bottom of them, which these Our modern Men of Sense (as they desire to be esteem'd) say, that they only do, that they only have their Judgements freed from the slavish Authority of Precedents and Laws, and matters of <hi>Truth,</hi> which they say, ought only to be decided by Reason: Tho' by a prudent Complyance with Popula<g ref="char:EOLhyphen"/>rity and Laws, they preserve themselves from Outrage and Legal Penalties, for none of their Complexions are addicted to Sufferings or Martyrdome.</p>
+            <p>Now, Sir, That which you desire from me, is some short <hi>Topick</hi> of Reason, if such can be found, whereby, without running to Authori<g ref="char:EOLhyphen"/>ties, and the intricate Mazes of Learning, which breed long Disputes, and which these Men of Reason deny by whole-sale, tho' they can give no Reason for it, only suppose that Authors have been trump'd upon us, <hi>interpola<g ref="char:EOLhyphen"/>ted</hi> and <hi>corrupted,</hi> so that no stress can be laid upon them, tho' it cannot be shewen wherein
+<pb n="7" facs="tcp:179495:4"/> they are so corrupted; which, in Reason, ought to ly upon them to prove, who al<g ref="char:EOLhyphen"/>ledge it; otherwayes it is not only a <hi>Precarious,</hi> but a <hi>guiltie plea:</hi> However, you lay, it makes your Disputes endless, and they go away with Noise and Clamour, and a Boast, that there is nothing, at least nothing certain, to be said on the Christian side: Therefore you are de<g ref="char:EOLhyphen"/>sirous to find some one <hi>Topick</hi> of Reason, which should demonstrat the Truth of the <hi>Christian Religion,</hi> and, at the same time, distinguish it from the Impostures of <hi>Mahomet,</hi> and the old <hi>Pagan World,</hi> That our <hi>Deists</hi> may be brought to this Test, and be either oblig'd to renounce their <hi>Reason,</hi> and the <hi>common Reason</hi> of Man<g ref="char:EOLhyphen"/>kind, or to submit to the clear proof, from <hi>Reason,</hi> of the <hi>Christian Religion,</hi> which must be such a Proof, as no Imposture can pretend to, otherwise it cannot prove the <hi>Christian Religion</hi> not to be an Imposture. And, whe<g ref="char:EOLhyphen"/>ther such a Proof, one single Proof (to avoid confusion) is not to be found out, you desire to know from me.</p>
+            <p>And you say, that you cannot imagine but there must be such a <hi>Proof,</hi> because every <hi>Truth</hi> is in it self clear, and one, and therefore that one Reason for it, if it be the true Reason, must be sufficient: And, if sufficient, it is bet<g ref="char:EOLhyphen"/>ter than many, for Multiplicity confounds, especially to weak Judgements.</p>
+            <pb n="8" facs="tcp:179495:5"/>
+            <p>Sir, You have imposed an hard Task upon me, I wish I could perform it: For tho' <hi>Every Truth is one,</hi> yet our sight is so feeble, that we cannot (alwise) come to it directly, but by many Inferences, and laying of things together.</p>
+            <p>But I think that in the Case before us, there is such a <hi>Proof</hi> as you require; and I will set it down, as short and plain as I can.</p>
+            <p n="2">II. First then I suppose, That the Truth of the Doctrine of CHRIST will be sufficiently evinced, if the <hi>matters of fact</hi> which are record<g ref="char:EOLhyphen"/>ed of Him in the <hi>Gospel</hi> be True? for His <hi>Mi<g ref="char:EOLhyphen"/>racles,</hi> if true, do vouch the Truth of what He delivered.</p>
+            <p>The same is to be said as to <hi>Moses,</hi> if he brought the Children of <hi>Israel</hi> through the <hi>Red-Sea,</hi> in that miraculous manner which is related in <hi>Exodus,</hi> and did such other wonder<g ref="char:EOLhyphen"/>ful things as are there told of him? It must necessarly follow, that he was sent from <hi>GOD;</hi> These being the strongest Proofs we can de<g ref="char:EOLhyphen"/>sire, and which every <hi>Deist</hi> will confess he would acquiesce in, if he saw them with his Eyes. Therefore the whole of this Cause will depend upon the Proof of these <hi>matters of fact.</hi>
+            </p>
+            <p n="1">1. And the method I will take, is, <hi>First,</hi> To lay down such Rules, as to the Truth of <hi>matters of fact,</hi> that where they all meet, such <hi>mat<g ref="char:EOLhyphen"/>ters
+<pb n="9" facs="tcp:179495:5"/> of fact</hi> cannot be false. And then <hi>second<g ref="char:EOLhyphen"/>ly,</hi> To shew that all these Rules do meet in the <hi>matters of fact</hi> of <hi>Moses,</hi> and of <hi>Christ;</hi> and that they do not meet in the <hi>matters of fact</hi> of <hi>Mahomet,</hi> of the <hi>Heathen Deities,</hi> or can pos<g ref="char:EOLhyphen"/>sibly meet in any <hi>Imposture</hi> whatsoever.</p>
+            <p n="2">2. The Rules are these, 1st [That the <hi>mat<g ref="char:EOLhyphen"/>ters of fact</hi> be such, as that Mens <hi>outward Sen<g ref="char:EOLhyphen"/>ses,</hi> their <hi>Eyes</hi> and <hi>Ears</hi> may be <hi>Judges</hi> of it. 2. That it be done publickly in the <hi>face of the World.</hi> 3. That not only <hi>publick monuments</hi> be kept in <hi>memory</hi> of it, but some <hi>outward Actions</hi> to be performed. 4. That such <hi>monuments</hi> and such <hi>Actions</hi> or <hi>Observances</hi> be instituted, and do commence from the time that the, <hi>matter of fact</hi> was done.]</p>
+            <p n="3">3. The two first Rules make it impossible for any such <hi>matter of fact</hi> to be imposed u<g ref="char:EOLhyphen"/>pon Men at the time when such <hi>matter of fact</hi> was said to be done, because every Man's Eyes and Senses would contradict it. For Example, Suppose any man should pre<g ref="char:EOLhyphen"/>tend that Yesterday he divided the <hi>Thames,</hi> in presence of all the People in <hi>London,</hi> and carried the whole City, Men, Women, and Children, over to <hi>Southwark</hi> on dry Land, the Waters standing like Walls on both sides: I say, it is morally impossible that he could perswade the People of <hi>London</hi> that this was true, when every Man, Woman, and Child, could contradict him, and say, that this was
+<pb n="10" facs="tcp:179495:6"/> a notorious falshood, for that they had not seen the <hi>Thames</hi> so divided, or had gone over on dry Land. Therefore I take it for grant<g ref="char:EOLhyphen"/>ed, (and, I suppose, with all the allowance of all the <hi>Deists</hi> in the World) that no such Im<g ref="char:EOLhyphen"/>position could be put upon men, at the time when such publick <hi>matters of fact</hi> was said to be done.</p>
+            <p n="4">4. Therefore it only remains, that such <hi>matters of fact</hi> might be invented some time after, when the men of that Generation, wherein the thing was said to be done, are all past and gone; and the Credulity of After-Ages might be imposed upon to believr what things were done in former ages, which were not.</p>
+            <p>And for this, the two last Rules secure us as much as the two first Rules in the former Case, for when ever such a <hi>matter of fact</hi> came to be invented, if not only Monuments were said to remain of it, but likewayes that publick Actions &amp; Observances were constant<g ref="char:EOLhyphen"/>ly us'd, ever since the <hi>matter of fact</hi> was said to be done, the Deceit must be detected, by no such Monuments appearing, and by the Experience of every Man, Woman, and Child, who must know that no such Actions or Ob<g ref="char:EOLhyphen"/>servances were ever us'd by them. For Exam<g ref="char:EOLhyphen"/>ple, Suppose I should now invent a Story of such a thing, done a thousand years ago, I might, perhaps, get some to believe it: But
+<pb n="11" facs="tcp:179495:6"/> if I say, that not only such a thing was done, but that from that day to this, every man, at the age of twelve Years, had a Joint of his little Finger cut off; And, that every man in the Nation did want a Joint of such a Fing<g ref="char:EOLhyphen"/>er, and this Observation was said to be part of the <hi>matter of fact</hi> done so many years agoe, and vouch'd as a proof and confirmation of it, and as having descended, without In<g ref="char:EOLhyphen"/>terruption, and been constantly practis'd, in memory of such <hi>matters of fact,</hi> all along, from the time that such <hi>matters of fact</hi> was done: I say, it is impossible I should be be<g ref="char:EOLhyphen"/>liev'd in such a Case, because every one could contradict me, as to the Mark of cutting of a Joint off the Finger; and that being part of my Original <hi>matter of fact,</hi> must demonstrate the whole to be false.</p>
+            <p n="3">III. Let us now come to the second Point, to shew, that the <hi>matters of fact</hi> of <hi>Moses,</hi> and of <hi>Christ,</hi> have all these Rules or Marks before mentioned, and that neither the <hi>mat<g ref="char:EOLhyphen"/>ters of fact</hi> of <hi>Mahomet,</hi> or what is reported of the <hi>Heathen Deities</hi> have the like; and that no Imposture can have them all.</p>
+            <p n="1">1. As to <hi>Moses:</hi> His rescuing the People of <hi>Israel</hi> out of <hi>Aegypt,</hi> in such a wonderful manner, dividing the <hi>Red Sea,</hi> &amp;c. is not only told, but likewayes that the <hi>Passover</hi> was then, at that very time, instituted, and that
+<pb n="12" facs="tcp:179495:7"/> the Observation of it has continu'd from that time down all along, in all the Families of the <hi>Jews,</hi> in remembrance of that <hi>miraculous</hi> De<g ref="char:EOLhyphen"/>liverance. To the same purpose was the <hi>Sab<g ref="char:EOLhyphen"/>bath</hi> then commanded, <hi>Deut:</hi> 5.15. and se<g ref="char:EOLhyphen"/>veral other publick and solemn Institutions.</p>
+            <p>Now, as it was impossible for <hi>Moses</hi> to have perswaded six hundred thousand Men, that he had brought them out <hi>Aegypt,</hi> through the <hi>Red-Sea, &amp;c.</hi> if it had not been true; So, if such a Story was invented in After Ages, and the Observation of the <hi>Passover,</hi> from that time, said to be a part of the <hi>matter of fact,</hi> it must necessarily sh<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w the whole to be false, because when that Story was first invented, every Body must know, that they had never observ'd any <hi>Passover</hi> in memory of such a thing, or ever heard of it before; and it be<g ref="char:EOLhyphen"/>ing told, that as certainly as such a thing was done, so certainly was such a <hi>Passover</hi> kept, and that not only by one or two in a corner, but publickly, and by the Law of the Nation, and in every Family: I say, it is full as im<g ref="char:EOLhyphen"/>possible to make men believe this, if it be a Lye, as to have perswaded all those men out of their Senses, at the time when the thing was said to be done. For, let me ask, is it not as impossible to make a whole Nation of men believe, that they had been all <hi>Circum<g ref="char:EOLhyphen"/>cis'd</hi> or <hi>Baptis'd,</hi> and did <hi>Circumcise</hi> or <hi>Baptise</hi> their Children, that they kept, and alwayes
+<pb n="13" facs="tcp:179495:7"/> had done every <hi>Seventh Day;</hi> a solemn Yearly <hi>Passover, &amp;c.</hi> If they had never done any of these things; and that they had not only kept these <hi>Observations,</hi> but likewayes that they kept them in memory of what they had ne<g ref="char:EOLhyphen"/>ver heard of before that Day: I say, it is not as impossible to perswade men to this: And is it not as much against their <hi>Senses,</hi> as well as their <hi>Reason,</hi> as to make them believe that they had pass'd through a <hi>Sea,</hi> or any other <hi>matter of fact</hi> that can be nam'd? And the Truth of the first <hi>matter of fact</hi> said to be done so many hundred years agoe, being ur<g ref="char:EOLhyphen"/>ged, when first invented, to be no further believ'd, than as these Observances have been known and practis'd; and these publick Ob<g ref="char:EOLhyphen"/>servances, being brought as a <hi>proof</hi> and <hi>confir<g ref="char:EOLhyphen"/>mation</hi> of the first <hi>matter of fact,</hi> It is as much against the Senses of that Age, wherein such Story was first invented, to believe it, as it was against the Senses of those who liv'd when such a Story was said to be done, to have be<g ref="char:EOLhyphen"/>liev'd it at that time. And therefore, where any <hi>matter of fact</hi> is attended with all the Rules and Marks before mentioned, it is as impossible to invent it in any After Ages without a Discovery, as to have imposed it upon the Senses of Mankind, at the time when it was said to be done.</p>
+            <p n="2">2. Now <hi>secondly,</hi> As to our <hi>Blessed Saviour</hi> his Works and Miracles, which are recorded of him in the <hi>Gospels,</hi> are said to be done pub<g ref="char:EOLhyphen"/>lickly,
+<pb n="14" facs="tcp:179495:8"/> In the face of the World, as he argu'd to His Accusers. <hi>I spake openlie to the World, and in secret have I said nothing,</hi> John 14.10. It is told, <hi>Acts</hi> 11.41. That three thousand at one time, and <hi>Acts</hi> 4.4. that about five thousand at another time were converted, upon Conviction of what themselves had seen, what had been done publickly before their Eyes, wherein it was impossible to have im<g ref="char:EOLhyphen"/>pos'd upon them. Therefore here were the two first of the Rules before mentioned.</p>
+            <p>Then for the two second: <hi>Baptism,</hi> and the <hi>Lord's Supper,</hi> were instituted as perpetual Me<g ref="char:EOLhyphen"/>morials of these things, and they were not in<g ref="char:EOLhyphen"/>stituted in after ages, but at the very time when these things were said to be done, and have been observed without Interruption, in all ages through the whole Christian World, down all the way from that time to this. And therefore, by what is said above, it was as impossible to have impos'd upon Mankind in this matter, by inventing of it in After-Ages, as at the time when those things were said to be done.</p>
+            <p n="3">3. The <hi>matters of fact</hi> of <hi>Mahomet,</hi> or what is fabled of the <hi>Heathen Deities,</hi> do all want some of the aforesaid four Rules, whereby the certainty of <hi>matters of fact</hi> are demonstrated. <hi>First,</hi> for <hi>Mahomet,</hi> he pretended to no mira<g ref="char:EOLhyphen"/>cles, as he tells us in his <hi>Alcoran, c.</hi> 6. <hi>&amp;c.</hi> and those which are commonly told of him, pass among the <hi>Mahumetans</hi> themselves but as Le<g ref="char:EOLhyphen"/>gendary
+<pb n="15" facs="tcp:179495:8"/> fables, and, as such, are rejected by the Wise and learned amongst them, as the Legends of their Saints are in the Church of <hi>Rome.</hi> See Dr. <hi>Prideaux</hi> his Life of <hi>Mahomet,</hi> page 34.</p>
+            <p>But in the next place, those which are told of him, do all want the two first Rules before mentioned. For his pretended con<g ref="char:EOLhyphen"/>verse with the <hi>Moon,</hi> his <hi>Mesra,</hi> or night jpur<g ref="char:EOLhyphen"/>ney from <hi>Mecca</hi> to <hi>Jerusalem,</hi> and thence to <hi>Heaven, &amp;c.</hi> were not perform'd before any body. We have only his own word for them, and they are as groundless as the Delusions of <hi>Fox</hi> or <hi>Muggleton</hi> amongst our selves. The same is to be said (in the second place) of the fables of the <hi>Heathen Gods,</hi> of <hi>Mercurie</hi>'s stealling sheep, <hi>Jupiter</hi>'s turning him<g ref="char:EOLhyphen"/>self into a <hi>Bull,</hi> and the like; besides the fol<g ref="char:EOLhyphen"/>ly and unworthiness of such senseless pretended miracles. And moreover, the Wise among the <hi>Heathen</hi> did reckon no otherwise of these but as fables, which had a <hi>Mythologie</hi> or mis<g ref="char:EOLhyphen"/>tical meaning in them, of which several of them had given us the <hi>Rational,</hi> or <hi>Explication.</hi> And it is plain enough that <hi>Ovid</hi> meant no other by all his <hi>Metamorphoses.</hi>
+            </p>
+            <p>It is true, that <hi>Feasts, Games,</hi> and such like <hi>Publick Institutions,</hi> were appointed in memory of <hi>Bacchus, Caeres,</hi> and other of the <hi>Heathen Deities:</hi> Put these want the fourth mark, <hi>viz:</hi> That such publick Institutions should <hi>Commence</hi> from the time that such actions which they
+<pb n="16" facs="tcp:179495:9"/> Commemorate were said to be done. Other<g ref="char:EOLhyphen"/>wise they cannot secure After Ages from the Imposture, by detecting it, at the time when first invented, as hath been argu'd before. But the <hi>Bacchnalia,</hi> and other <hi>Heathen Feasts,</hi> were instituted many Ages after what was reported of these Gods, was said to be done, and therefore can be no proof of them.</p>
+            <p n="4">IV. Now, to apply what has been said, you may challenge all the <hi>Deists</hi> in the World to shew any Action that is fabulous, which has all the four <hi>Rules</hi> or <hi>marks</hi> before mentioned. No, it's impossible, And (to resume a little what is spoke to before) the History of <hi>Exodus</hi> or the <hi>Gospel</hi> could never have been received, if they had not been True, because the In<g ref="char:EOLhyphen"/>stitution of the <hi>Passover,</hi> of <hi>Baptism</hi> and the LORD's <hi>Supper</hi> are there related, as memorials then <hi>commenced,</hi> and so to descend through the succeeding Ages: And (as I said before) it is full as impossible to perswade men, that they had kept <hi>Passovers,</hi> and received <hi>Sacra<g ref="char:EOLhyphen"/>ments,</hi> if they bad not done it, as tbat they walked upon their Heads, went through <hi>Seas,</hi> or what you please.</p>
+            <p>And the Truth of the <hi>matter of fact</hi> of <hi>Exo<g ref="char:EOLhyphen"/>dus</hi> and the <hi>Gospel,</hi> being no otherwise press'd upon Men, than as they had practis'd such publick Institutions, it is appealing to the Sen<g ref="char:EOLhyphen"/>ses of Mankind for the Truth of them: And makes it impossible for any to have invented such Stories in After Ages, without a palpa<g ref="char:EOLhyphen"/>ble
+<pb n="17" facs="tcp:179495:9"/> Detection of the Cheat when first invent<g ref="char:EOLhyphen"/>ed, as impossible to have impos'd upon the Senses of mankind, at the time, when such <hi>publick matters of fact</hi> were said to be done.</p>
+            <p n="5">V. I do not say, that every thing which wants these four <hi>Marks</hi> is false: But that no<g ref="char:EOLhyphen"/>thing can be false which has them <hi>All.</hi>
+            </p>
+            <p>I have no manner of doubt that there was such a Man as <hi>Julius Caesar,</hi> that he fought at <hi>Pharsalia,</hi> was killed in the <hi>Senate-House,</hi> and many other <hi>matters of fact</hi> of Ancient times, tho' we keep no <hi>publick Observances</hi> in memory of them.</p>
+            <p>But this shews, that the <hi>matters of fact</hi> of <hi>Moses</hi> and of <hi>Christ</hi> have come down to Us, better guarded than any other <hi>matters of fact,</hi> how true soever.</p>
+            <p>And yet our <hi>Deists</hi> who would laugh any Man out of the World, as an irrational <hi>Brute;</hi> that should offer to deny <hi>Caesar</hi> or <hi>Alexan<g ref="char:EOLhyphen"/>der, Homer</hi> or <hi>Virgil,</hi> their <hi>Publick Works</hi> and <hi>Actions,</hi> do at the same time value them<g ref="char:EOLhyphen"/>selves, as the only Men of Wit and Sense, of <hi>free, generous,</hi> and <hi>unbyast Judgements</hi> for Ri<g ref="char:EOLhyphen"/>diculating the Histories of <hi>Moses</hi> and <hi>Christ,</hi> that are infinitly better attested, and guard<g ref="char:EOLhyphen"/>ed with infallible <hi>Marks,</hi> which the others want.</p>
+            <p n="6">VI. Besides that, the importance of the sub<g ref="char:EOLhyphen"/>ject would oblige all Men, to enquire more narrowly into the one than the other: For what Consequence is it to me, or to the
+<pb n="18" facs="tcp:179495:10"/> World, whether there was such a Man as <hi>Caesar,</hi> whether he beat or was beaten at <hi>Pharsalia?</hi> whether <hi>Homer</hi> or <hi>Virgil</hi> wrote such Books? and whether what is related in the <hi>Iliads</hi> or <hi>Aeneids</hi> be true or false! It is not two Pence up or down to any Man in the World. And therefore it is worth no Mans while to inquire into it, Either to oppose or justifie the Truth of these Relations.</p>
+            <p>But on every Souls and Bodies, both this Life and Eternity are concerned in the Truth of what is related in the Holy <hi>Scriptures:</hi> And therefore Men would be more inquisitive in<g ref="char:EOLhyphen"/>to the Truth of these, than of any other <hi>mat<g ref="char:EOLhyphen"/>ters of fact,</hi> Examine and sift them narrow<g ref="char:EOLhyphen"/>ly, and find out the deceit, if any such could be found; for it concerned them nearly, and was of the last importance to them.</p>
+            <p>How unreasonable then is it to reject these <hi>matters of fact,</hi> so sifted, so Examined, and so attested, as no other <hi>matters of fact</hi> in the World ever were, and yet to think it the most highly unreasonable, even to madness to deny other <hi>matters of fact,</hi> which have not the thousandth part of their Evidence, and are of no Consequence at all to us, whether true or false!</p>
+            <p n="7">VII. There are several other Topicks, from whence the Truth of the Christian Religion is evinced to all who will Judge by Reason, and give themselves leave to consider. As the improbability that ten or twelve poor illiterat
+<pb n="19" facs="tcp:179495:10"/> Fishermen should form a design of Convert<g ref="char:EOLhyphen"/>ing the whole World to believe their Delusi<g ref="char:EOLhyphen"/>ons: and the impossibility of their effecting it without force of Arms, <hi>Learning, Oratory,</hi> or any one visible thing that could recommend them? And to impose a <hi>Doctrine</hi> quite opposite to the <hi>Lusts</hi> and <hi>Pleasures</hi> of men, and all <hi>world<g ref="char:EOLhyphen"/>ly Advantages;</hi> or <hi>Enjoyments?</hi> And this in an age of so great Learning and Sagacity, as that wherein the Gospel was first preached? That those <hi>Apostles</hi> should not only undergo all the Scorn and Contempt, but the severest persecu<g ref="char:EOLhyphen"/>tions and most cruel death that could be in<g ref="char:EOLhyphen"/>flicted, in attestation to what themselves knew to be a meer deceit, and forgery of their own contriving, some have suffered for <hi>Errors,</hi> which they thought to be <hi>Truth.:</hi> But never any for what themselves knew to be <hi>Lyes.</hi> And the <hi>Apostles</hi> must know what they taught to be Lies, if it was so, because they spoke of those things, which they said, they had both seen and heard,<note place="margin">
+                  <hi>Act.</hi> 4.20. 1 <hi>Joh.</hi> 1.1.</note> had looked upon, and <hi>handled with their Hands,</hi> &amp;c.</p>
+            <p>Neither can it be said, that they, perhaps, might have propos'd some temporal Advan<g ref="char:EOLhyphen"/>tages to themselves, but miss'd of them, and met with Sufferings instead of them: For if it had been so, it is more than probable, that when they saw their Disappointment, they would have discover'd their conspiracy, espe<g ref="char:EOLhyphen"/>cially when they might not only have saved
+<pb n="20" facs="tcp:179495:11"/> their Lives, but got great Rewards for doing of it. That not one of them should ever have been brought to do this?</p>
+            <p>But this is not all; For they tell us, that their Master bid them expect nothing but <hi>Suf<g ref="char:EOLhyphen"/>ferings</hi> in this World. This is the Tenure of all that Gospel which they taught: And they told the same to all whom they converted. So that here was no disappointment.</p>
+            <p>For all that were converted by them, were converted upon the certain Expectation of <hi>Suf<g ref="char:EOLhyphen"/>ferings,</hi> and bidden prepare for it. <hi>Christ</hi> com<g ref="char:EOLhyphen"/>manded His <hi>Disciples,</hi> to take up their <hi>Cross,</hi> and follow Him: And told them, that in the World they should have Tribulation: That whoever did not foresake <hi>Father, Mother, Wife, Children, Lands,</hi> and their very <hi>Lives,</hi> could not be His <hi>Disciples:</hi> That he who <hi>sought to save his Life</hi> in this World, should <hi>lose</hi> it in the Next.</p>
+            <p>Now, That this despis'd <hi>Doctrine</hi> of the <hi>Cross,</hi> should prevail so universally against the <hi>Al<g ref="char:EOLhyphen"/>lurements</hi> of <hi>Flesh</hi> and <hi>Blood,</hi> and all the Blan<g ref="char:EOLhyphen"/>dishments of this World: Against all the <hi>Rage</hi> and <hi>persecution</hi> of all the Kings and Powers of the Earth, must shew its Original to be Di<g ref="char:EOLhyphen"/>vine, and its <hi>Protector, Almighty.</hi> What is it else, could Conquer without <hi>Arms,</hi> Perswade without <hi>Rhetorick;</hi> overcome <hi>Enemies,</hi> disarm <hi>Tyrants,</hi> and subdue Empires, without Op<g ref="char:EOLhyphen"/>position?</p>
+            <p n="8">
+               <pb n="21" facs="tcp:179495:11"/>VIII. We may add to all this, the Testimo<g ref="char:EOLhyphen"/>nies of the most bitter <hi>Enemies,</hi> and <hi>Persecutors</hi> of <hi>Christianity, Jews</hi> and <hi>Gentiles,</hi> to the <hi>Truth</hi> of the <hi>matter of fact</hi> of <hi>Christ,</hi> such as <hi>Jose<g ref="char:EOLhyphen"/>phus</hi> and <hi>Tacitus;</hi> of which the first flourished about fourty years after the Death of <hi>Christ,</hi> and the other about seventy years after: So that they were capable of Examining into the <hi>Truth,</hi> and wanted not prejudice and malice sufficient to have inclin'd them to deny the <hi>matter of fact</hi> it self of <hi>Christ:</hi> But their con<g ref="char:EOLhyphen"/>fessing to it: as likewise, <hi>Lucian, Celsus, Por<g ref="char:EOLhyphen"/>pbyrie,</hi> and <hi>Julian</hi> the <hi>Apostate,</hi> the <hi>Mahumetans</hi> since, and all other Enemies of <hi>Christianity</hi> that have arisen in the World, is an undeny<g ref="char:EOLhyphen"/>able Attestation to the Truth of the <hi>matters of fact.</hi>
+            </p>
+            <p n="11">XI. These and other Topicks, which have been insisted upon by those who have manag<g ref="char:EOLhyphen"/>ed this Argument, cannot nor ought to be denyed by any Man who pretends to common Sense. And it is very lamentable to see a <hi>wide mouth,</hi> a scornful <hi>Nod,</hi> or <hi>Lyar,</hi> and a <hi>Noisie Effrontery,</hi> impatient of Argument or Contradiction, carry it away with some un<g ref="char:EOLhyphen"/>thinking People, against all the Reason and Authority in the World, only because they say, that notwithstanding of all your <hi>probabili<g ref="char:EOLhyphen"/>ties,</hi> however artful laid together, yet it is <hi>pos<g ref="char:EOLhyphen"/>sible</hi> to be otherwise: And they demand, for <hi>matters of fact</hi> long since past, a Demonstra<g ref="char:EOLhyphen"/>tion from the <hi>Outward Senses</hi> of the present
+<pb n="22" facs="tcp:179495:12"/> Age. That is, that I should see or hear what was before I was born. Which is a method they would <hi>Hoot</hi> at, if propos'd in any other Case.</p>
+            <p n="10">X. But tho, wee cannot see what was done before our Time, yet by the <hi>marks</hi> which I have laid down concerning the <hi>Certaintie</hi> of <hi>matter of Fact</hi> done before our Time, we may be as much Assur'd of the <hi>Truth</hi> of 'em, as if we saw them with out Eyes? because whatever <hi>matter of Fact</hi> has all the four <hi>marks</hi> before mention'd, could never have been <hi>Invented</hi> and <hi>Receiv'd</hi> but upon the Conviction of the <hi>out<g ref="char:EOLhyphen"/>ward Senses</hi> of All those who did <hi>Receive</hi> it, as before is Demonstrated. And therefore this <hi>Topick</hi> which I have Chosen, does stand upon the <hi>Conviction</hi> even of mens <hi>outward Senses.</hi> And since you have confin'd me to <hi>one</hi> Topick, I have not insisted upon the others which I have only Nam'd:</p>
+            <p n="11">XI. And now it lies upon the <hi>Deists,</hi> if they wou'd appear as men of <hi>Reason,</hi> to shew some <hi>matter of Fact</hi> of former Ages, which they Al<g ref="char:EOLhyphen"/>low to be <hi>True,</hi> that has greater <hi>Evidences</hi> of its <hi>Truth,</hi> than the <hi>matters of Fact</hi> of <hi>Moses</hi> and of <hi>Christ:</hi> Otherwise they cannot, with any shew of <hi>Reason,</hi> Reject the one, and yet Admit of the other.</p>
+            <p>But I have given them greater Latitude than this, For I have shewn such <hi>marks</hi> of the <hi>Truth</hi> of the <hi>matters of Fact</hi> of <hi>Moses</hi> and of <hi>Christ,</hi> as no other <hi>matters of Fact</hi> of those
+<pb n="23" facs="tcp:179495:12"/> Times however <hi>True,</hi> have but these only: And I put it upon them to shew any <hi>Forgery</hi> that has <hi>All</hi> these <hi>marks.</hi>
+            </p>
+            <p>This is a short <hi>Issue,</hi> Keep them closs to, This determines the <hi>Cause</hi> All at Once.</p>
+            <p>Let them Produce their <hi>Apollonius Tyanaeus,</hi> whose Life was put into <hi>English</hi> by the Execra<g ref="char:EOLhyphen"/>ble <hi>Charles Blount,</hi> and compar'd, with all the <hi>Wit</hi> and <hi>malice</hi> he was Master of, to the <hi>Life</hi> and <hi>Miracles</hi> of our Blessed <hi>Saviour.</hi>
+            </p>
+            <p>Let them take Aid from all the <hi>Legends</hi> in the Church of <hi>Rome,</hi> those <hi>Pious Cheats,</hi> the sotest <hi>Disgraces</hi> of <hi>Christianity;</hi> and which have bid the fairest, of any one Contrivance, to overturn the <hi>Certainty</hi> of the <hi>Miracles</hi> of <hi>Christ</hi> and his <hi>Apostles,</hi> and whole <hi>Truth</hi> of the <hi>Gospell,</hi> by putting them All upon the same <hi>Foot;</hi> At least, they are so Understood by the Generality of their <hi>Devotoes,</hi> tho' <hi>Dis<g ref="char:EOLhyphen"/>own'd</hi> and <hi>Laugh'd at</hi> by the <hi>Learned,</hi> and men of <hi>Sense</hi> among men.</p>
+            <p>Let them Pick and Choose the most Proba<g ref="char:EOLhyphen"/>ble of all the <hi>Fables</hi> of the <hi>Heathen Deities;</hi> and see if they can find in any or All of these the four <hi>marks</hi> before mention'd.</p>
+            <p>Otherwise let them submit to the Irrefra<g ref="char:EOLhyphen"/>gable <hi>Certainty</hi> of the <hi>Christian</hi> Religion.</p>
+            <p n="12">XII. But if, notwithstanding of all that is said, the <hi>Deists</hi> will still contend, That all this is but <hi>Priest-Craft,</hi> the Invention of <hi>Priests,</hi> for their own Profit, <hi>&amp;c.</hi> Then they will give us an <hi>Idea</hi> of <hi>Priests</hi> far Diffe<g ref="char:EOLhyphen"/>rent
+<pb n="24" facs="tcp:179495:13"/> from what they intend: For then, we must look upon these <hi>Priests,</hi> not only as the <hi>Cunningest</hi> and <hi>Wisest.</hi> of <hi>Mankind;</hi> but we shall be tempted to adore them as <hi>Deities,</hi> who have such Power as to impose, at their Pleasure, upon the Senses of Mankind, to make them believe, That they had practis'd such <hi>Publick Institutions,</hi> Enacted them by <hi>Laws,</hi> taught them to their <hi>Children,</hi> &amp;c. when they had never done any of these things, or ever so much as heard of them before: And then, upon the Credit of their believing that they had done such things as they never did, to make them further believe, upon the same Foundation, whatever they pleas'd to impose upon them as to former Ages; I say, such a <hi>Power</hi> as this must exceed all that is Humane; and consequently make Us Rank these <hi>Priests</hi> farr above the Condition of Mortals.</p>
+            <p n="2">2. Nay, this were to make them out do all that has ever been Related of the <hi>Infernal Pow<g ref="char:EOLhyphen"/>ers:</hi> For, tho' their <hi>Legerdemaine</hi> has extended to deceive some unwary Beholders, and their Power of working some seeming miracles has been Great, yet it never Reach'd, nor ever was suppos'd to Reach so far as to De<g ref="char:EOLhyphen"/>ceive the Senses of all Mankind, in matters of such <hi>publick</hi> and <hi>notorious Nature</hi> as those of which we now speak, to make them Be<g ref="char:EOLhyphen"/>lieve, that they had Enacted <hi>Laws</hi> for such <hi>publick Observances,</hi> continually practis'd them, taught them to their <hi>Children,</hi> and had been
+<pb n="25" facs="tcp:179495:13"/> instructed in them themselves, from their <hi>Childhold,</hi> if they had never <hi>Enacted, practis'd, taught,</hi> or been <hi>taught</hi> such things.</p>
+            <p n="3">3. And as this exceeds all the <hi>power of Hell,</hi> and <hi>Devils;</hi> So is it more than ever GOD <hi>Al<g ref="char:EOLhyphen"/>mighty</hi> has done since the Foundation of the World: None of the Miracles that He has shewen, or Belief which he has required to any thing that he has reveal'd, has ever contra<g ref="char:EOLhyphen"/>dicted the <hi>Outward Senses</hi> of any one Man in the World, much less of all Mankind to<g ref="char:EOLhyphen"/>gether. For <hi>Miracles</hi> being Appeals to our <hi>Out<g ref="char:EOLhyphen"/>ward Senses,</hi> if they should overthrow the <hi>Cer<g ref="char:EOLhyphen"/>tainty of our Outward Senses,</hi> must destroy with it all their own <hi>Certainty</hi> as to Us; Since we have no other way to judge of a Miracle ex<g ref="char:EOLhyphen"/>hibited to our Senses, than upon the Suppo<g ref="char:EOLhyphen"/>sition of the <hi>Certainty</hi> of our Senses, upon which we give Credit to a Miracle, that is shewen to our Senses.</p>
+            <p n="4">4. This, by the way, is a yet Unanswer'd Argument against the <hi>Miracle</hi> of <hi>Trans-sub<g ref="char:EOLhyphen"/>stantiation,</hi> and shews the weakness of the De<g ref="char:EOLhyphen"/>fence which the <hi>Church</hi> of <hi>Rome</hi> offers for it, (from whom the <hi>Socinians</hi> have lick'd it up, and of late, have Glory'd much in it amongst Us) That the Doctrines of the <hi>Trinity</hi> or <hi>Incar<g ref="char:EOLhyphen"/>nation</hi> contain as great seeming Absurdities as that of <hi>Trans-substantiation:</hi> For I would ask, which of our Senses is it which the Doctrines of the <hi>Trinity</hi> or <hi>Incarnation</hi> do contradict? is it our <hi>Seeing, Hearing, Feeling, Taste,</hi> or <hi>Smell?</hi>
+               <pb n="26" facs="tcp:179495:14"/> Whereas <hi>Trans-substantiation</hi> does contradict all of those. Therefore the <hi>Comparison</hi> is Ex<g ref="char:EOLhyphen"/>ceedingly <hi>short,</hi> and out of Purpose. But to Return,</p>
+            <p>If the <hi>Christian</hi> Religion be a <hi>Cheat,</hi> and no<g ref="char:EOLhyphen"/>thing else but the <hi>Invention</hi> of <hi>Priests;</hi> and car<g ref="char:EOLhyphen"/>ry'd on by their <hi>Craft,</hi> it makes their <hi>Power</hi> and <hi>Wisdom</hi> Greater than that of <hi>Men, An<g ref="char:EOLhyphen"/>gels</hi> or <hi>Devils;</hi> and more than GOD Himself ever yet shew'd or express'd; to <hi>Deceive</hi> and <hi>Impose</hi> upon the <hi>Senses</hi> of <hi>Mankind,</hi> in such <hi>pub<g ref="char:EOLhyphen"/>lick</hi> and <hi>notorious matters of fact.</hi>
+            </p>
+            <p n="13">XIII. And this <hi>Miracle,</hi> which the <hi>Deists</hi> must run into to avoid these Recorded of <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> and <hi>Christ,</hi> is much Greater and more a<g ref="char:EOLhyphen"/>stonishing then All the <hi>Scriptures</hi> tell of <hi>Them.</hi>
+            </p>
+            <p>So that those Men. who laugh at all <hi>Mi<g ref="char:EOLhyphen"/>racles,</hi> are now oblig'd to Account for the Greatest of all, How the <hi>Senses</hi> of <hi>Mankind</hi> cou'd be Impos'd upon in such <hi>publick matters of fact.</hi>
+            </p>
+            <p>And How then, they make the <hi>Priests</hi> the most <hi>Contemptible</hi> of all <hi>Mankind,</hi> since they make <hi>Them</hi> the sole <hi>Authors</hi> of this the <hi>Greatest</hi> of <hi>Miracles!</hi>
+            </p>
+            <p n="14">XIV. And since the <hi>Deists</hi> (these Men of <hi>Sense</hi> and <hi>Reason</hi>) have so <hi>Vile</hi> and <hi>mean</hi> an <hi>I<g ref="char:EOLhyphen"/>dea</hi> of the <hi>Priests</hi> of all <hi>Religions,</hi> why do they not Recover the World out of the <hi>Possession</hi> and <hi>Government</hi> of such <hi>Blockheads!</hi> Why do they suffer <hi>Kings</hi> and <hi>States</hi> to be led by <hi>Them!</hi> To establish their <hi>Deceits</hi> by <hi>Laws;</hi> and inflict
+<pb n="27" facs="tcp:179495:14"/>
+               <hi>penalties</hi> upon the <hi>Opposers</hi> of them! Let the <hi>Deists</hi> Try their Hands! They have been Try<g ref="char:EOLhyphen"/>ing; and are now very Bussie about it. And free <hi>Liberty</hi> they have. Yet have they not prevailed. Nor ever yet did prevail in any <hi>Civiliz'd</hi> or <hi>Generous Nation.</hi> And tho' they have made some <hi>Introads</hi> among the <hi>Hotintots,</hi> and some other the most <hi>Brutal</hi> part of <hi>Man<g ref="char:EOLhyphen"/>kind,</hi> yet are they still Exploded, and <hi>Priests</hi> have and do prevail against them, among not only the <hi>Greatest,</hi> But <hi>Best</hi> part of the World, and the most Glorious for <hi>Arts, Learning,</hi> and <hi>Warr.</hi>
+            </p>
+            <p n="15">XV. For as the <hi>Devil</hi> doth Ape God, in His <hi>Institutions</hi> of <hi>Religion,</hi> His <hi>Feasts, Sacrifices,</hi> &amp;c. So likewise in His <hi>Preists,</hi> Without whom, no <hi>Religion</hi> whether <hi>True</hi> or <hi>False,</hi> can stand, <hi>False</hi> Religion is but a Corruption of the <hi>True,</hi> The <hi>True</hi> was before it; tho it followed close upon the Heels. The <hi>Revelation</hi> made to <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> is Elder than any <hi>History</hi> Extant in the Heathen World. The <hi>Heathens,</hi> in Imitati<g ref="char:EOLhyphen"/>on of Him, pretended likewise to their <hi>Reve<g ref="char:EOLhyphen"/>lations;</hi> But I have given those <hi>Marks</hi> which Distinguish them from the <hi>True;</hi> None of them have those four Marks before mention<g ref="char:EOLhyphen"/>ed. Now the <hi>Deists</hi> think all <hi>Revelations</hi> to be Equally <hi>pretended,</hi> and a <hi>Cheat;</hi> And the <hi>Priests</hi> of all <hi>Religions</hi> to be the same <hi>Contrivers</hi> and <hi>Juglers;</hi> and therefore they proclaim <hi>Warr</hi> equally against <hi>All:</hi> And are equally engag'd to bear the brunt of <hi>All.</hi> And if the Contest
+<pb n="28" facs="tcp:179495:15"/> be only betwixt the <hi>Deists,</hi> and the <hi>Priests,</hi> which of them are the Men of the greatest <hi>Parts</hi> and <hi>Sense,</hi> let the <hi>Effects</hi> determine it; and let the <hi>Deists</hi> yield the <hi>Victory</hi> to their <hi>Con<g ref="char:EOLhyphen"/>querors,</hi> who, by their own Confession, carry all the World before them.</p>
+            <p n="16">XVI. If the <hi>Deists</hi> say, that this is because all the Wold are <hi>Blockheads,</hi> as well as these <hi>Priests</hi> who govern them; that all are <hi>Block<g ref="char:EOLhyphen"/>heads</hi> except the <hi>Deists,</hi> who Vote themselves only to be men of <hi>sense:</hi> This (besides the modesty of it) will spoil their Great and Be<g ref="char:EOLhyphen"/>loved <hi>Topick,</hi> in behalf of what they call <hi>Na<g ref="char:EOLhyphen"/>tural Religion</hi> against the <hi>Reveal'd, Viz:</hi> Ap<g ref="char:EOLhyphen"/>pealing to the common Reason of mankind: This they set up against <hi>Revelation;</hi> Think this to be sufficient for all the Uses of men, here, or hereafter, (if there be any After-State) and therefore that there is no use of <hi>Revelation;</hi> this Common Reason they advance as <hi>Infallible</hi> at least, as the <hi>Surest Guide:</hi> Yet now cry out upon it, when it turns against them; When this <hi>Common Reason</hi> runs after <hi>Revelation</hi> (as it alwayes has done) then <hi>Com<g ref="char:EOLhyphen"/>mon Reason</hi> is a <hi>Beast;</hi> and we must look for <hi>Reason,</hi> not from the <hi>Common Sentiments</hi> of <hi>mankind,</hi> but only from among the <hi>Beaux</hi> the <hi>Deists!</hi>
+            </p>
+            <p n="17">XVII. Therefore, if the <hi>Deists</hi> would avoid the <hi>mortification</hi> (which will be very uneasie to them) to <hi>yield</hi> and <hi>submit,</hi> to be <hi>subdu'd</hi> and <hi>hew'd</hi> down before the <hi>Priests,</hi> whom of
+<pb n="29" facs="tcp:179495:15"/> all Mankind, they <hi>Hate</hi> and <hi>Despise,</hi> if they would avoid this, Let them confess, as the Truth is, That <hi>Religion</hi> is no Invention of <hi>Priests,</hi> but of Divine Original: That <hi>Priests</hi> were instituted by the same <hi>Author</hi> of <hi>Religion;</hi> and that their Order is a <hi>perpetual</hi> and <hi>living monument</hi> of the <hi>matters of fact</hi> of their <hi>Religi<g ref="char:EOLhyphen"/>on,</hi> instituted from the time that such <hi>matters of fact</hi> were said to be done, as the <hi>Levites</hi>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom <hi>Moses;</hi> the <hi>Apostles,</hi> and succeeding <hi>Cler<g ref="char:EOLhyphen"/>gy</hi> from <hi>Christ,</hi> to this Day. That no <hi>Hea<g ref="char:EOLhyphen"/>then Priests</hi> can say the same: They were not appointed by the <hi>Gods</hi> whom they serv'd, but by others in after Ages. in Honour of those <hi>Gods.</hi> They cannot stand the Test of the <hi>four Rules</hi> before mentioned, which the <hi>Christian Priests</hi> can do; and they only. And it being told in the <hi>matter of fact</hi> of <hi>Christ,</hi> that such <hi>Order</hi> of <hi>Priests</hi> were by Him instituted, and to continue to the end of the World; if the <hi>matters of fact</hi> of CHRIST were <hi>False,</hi> then when ever they came to be invented, in after Ages, there cou'd be no such <hi>Order</hi> of <hi>Christi<g ref="char:EOLhyphen"/>an Priests;</hi> And the <hi>matters of fact</hi> of <hi>Christ</hi> being press'd to be True, no otherwise than as there was (at that time when they were invented) not only Publick <hi>Sacraments</hi> (as be<g ref="char:EOLhyphen"/>fore has been urged) but a visible Order of <hi>Priests</hi> to Administer them; Consequently there being then no such Order of Men visible in the World, must demonstrat the whole to be <hi>False,</hi> and so make it impossible to be
+<pb n="30" facs="tcp:179495:16"/> Receiv'd, under the Circumstances before mention'd.</p>
+            <p n="18">XVIII. Now the <hi>Christian Priesthood,</hi> as In<g ref="char:EOLhyphen"/>stituted by <hi>Christ</hi> Himself, and Continued by <hi>succession</hi> to this Day, being as <hi>Impregnable</hi> and <hi>Flagrant</hi> a <hi>Testimony</hi> to the Truth of the <hi>Mat<g ref="char:EOLhyphen"/>ters of Fact</hi> of <hi>Christ,</hi> as the <hi>Sacraments,</hi> or a<g ref="char:EOLhyphen"/>ny other Publick <hi>Institutions,</hi> besides that, i<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Priesthood</hi> were taken away, the <hi>Sacrament,</hi> and other Publick <hi>Institutions,</hi> which are ad<g ref="char:EOLhyphen"/>ministred by their hands must fall with them. Therefore the <hi>Devil</hi> has been most bussie, and bent his greatest Force in all Ages against the <hi>Priesthood,</hi> knowing that if <hi>That</hi> go down, All go's with it.</p>
+            <p n="19">XIX With the <hi>Deists,</hi> in this Cause, are joyn'd the <hi>Quakers</hi> and other of their <hi>Dissenters</hi> who threw off the Succession of our <hi>Priesthood</hi> (by which only it can be demonstrated) to<g ref="char:EOLunhyphen"/>gether with the <hi>Sacraments</hi> and Publick <hi>Festi<g ref="char:EOLunhyphen"/>vals.</hi> And if the <hi>Devil</hi> could have prevail'd to have these Dropt, the <hi>Christian Religion</hi> wou'd lose the most <hi>Ʋnden<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able</hi> and <hi>Demonstrative</hi> Proof for the Truth of the <hi>Matters of fact of</hi> our <hi>Saviour,</hi> upon which the Truth of His <hi>Doc<g ref="char:EOLunhyphen"/>trine</hi> does depend. Therefore we may see the Artifice and <hi>Malice of the Devil,</hi> in all these Attempts: And let those wretched <hi>Instru<g ref="char:EOLunhyphen"/>ments,</hi> whom he ignorantly (and some, by a mis<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>guided <hi>Zeal</hi>) has deluded thus to Under<g ref="char:EOLunhyphen"/>mine <hi>Christianity,</hi> now at last look back, and see the Snare in which they have been Taken
+<pb n="31" facs="tcp:179495:16"/> for if they had prevail'd, or ever should, <hi>Christianity</hi> Dies with them. At least, it will be renderd <hi>Precarious,</hi> as a thing of which no certain Proof can be given. Therefore, let those of them, who have any Zeal for the Truth, bless GOD that they have not prevail'd; and quickly leave them, and let all others be aware of them.</p>
+            <p>And let us Consider and Honour the <hi>Priest<g ref="char:EOLhyphen"/>hood, Sacraments,</hi> and other <hi>pub<g ref="char:EOLhyphen"/>lick Institutions</hi> of <hi>Christ,</hi>
+               <note place="margin">
+                  <hi>See</hi> Dr. Cock<g ref="char:EOLhyphen"/>burns <hi>Sermons.</hi> Ser: p. 129.</note> not on<g ref="char:EOLhyphen"/>ly as <hi>Means</hi> of <hi>Grace and Helps</hi> to <hi>Devotion,</hi> but as the Great <hi>Evidences</hi> of the <hi>Christian Religion.</hi>
+            </p>
+            <p>Such <hi>Evidences</hi> as no <hi>pretended Revelation</hi> ever had, or can have. Such as do plainly distinguish it from all Foolish <hi>Legends</hi> and <hi>Im<g ref="char:EOLhyphen"/>postures</hi> whatsoever.</p>
+            <p n="20">XX. And now, last of all, if one word of Advice wou'd not be lost upon Men, who think so Unmeasureable of themselves as the <hi>Deists,</hi> you may Represent to them, what a Conditi<g ref="char:EOLhyphen"/>on they are in, who spend their <hi>Life</hi> and <hi>Sense,</hi> which GOD has given them, in Ridiculing the Greatest of his <hi>Blessing, His Revelations</hi> of <hi>Christ,</hi> and by <hi>Christ,</hi> to Redeem those from <hi>eternal misery,</hi> who shall <hi>Believe</hi> in Him, and <hi>Obey</hi> His <hi>Laws.</hi> And that GOD, in his <hi>Won<g ref="char:EOLhyphen"/>derfull Mercy</hi> and <hi>Wisdom,</hi> has so Guarded His <hi>Revelations,</hi> as that it is past the Power of <hi>Men</hi> or <hi>Devils</hi> to <hi>Counterfit:</hi> And that there is no <hi>Denying</hi> of them, unless we will be so Absurd,
+<pb n="32" facs="tcp:179495:17"/> as to deny not only the <hi>Reason,</hi> but the <hi>Cer<g ref="char:EOLhyphen"/>tainty</hi> of the <hi>Outward Senses,</hi> not only of <hi>one</hi> or <hi>two</hi> or <hi>three,</hi> but of <hi>Mankind</hi> in General. That this Case is so very plain, that nothing but want of Thought can hinder any to discover it. That they must yield it to be so plain, un<g ref="char:EOLhyphen"/>less they can shew some <hi>Forgery,</hi> which has all the four Marks before set down. But if they cannot do this, they must quite their Cause, and yield a happy <hi>Victory</hi> over themselves: Or else sit down with all that <hi>Ignominy</hi> with which they have loaded the <hi>Priests;</hi> of being, not only the most pernicious, but (what will <hi>gall them more</hi>) the most <hi>foolish</hi> and <hi>inconsiderat of Mankind.</hi>
+            </p>
+            <p>Therefore let them not think it an under<g ref="char:EOLhyphen"/>valuing of their <hi>Worthiness,</hi> that their whole Cause is comprised in less than two Sheets of Paper: And no more time bestow'd upon it, than it is worth.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>July</hi> 17th. 1697.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
